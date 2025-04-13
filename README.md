@@ -6,12 +6,12 @@ A fun and interactive game built with **HTML**, **CSS**, and **JavaScript** wher
 
 ## 🎮 Game Features
 
-- ✅ JSON-configurable difference data
-- 🕒 30-second countdown timer
-- 🎯 Automatic win detection when **at least one difference** is found
-- 📍 Visual markers show discovered differences
-- 📊 Real-time score and timer
-- 🐾 Simple and responsive layout
+- JSON-configurable difference data
+- 30-second countdown timer
+-  Automatic win detection when **at least one difference** is found
+-  Visual markers show discovered differences
+-  Real-time score and timer
+- Simple and responsive layout
 
 ---
 
